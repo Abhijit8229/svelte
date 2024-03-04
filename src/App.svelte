@@ -46,7 +46,7 @@
 >
   <header class="flex flex-col items-center gap-3">
     <h1 class="font-bold text-3xl">Task Trove 😎</h1>
-    <p class="text-base">Track Your Tasks 📝</p>
+    <p class="text-base">Track Your Tasks 📝📝</p>
   </header>
   <div class="input">
     <input
